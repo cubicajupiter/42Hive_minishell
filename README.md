@@ -6,7 +6,7 @@
 - WIP
 
 <p align="center">
-  <img src="https://github.com/mordori/mordori/blob/main/doc/asdasd.gif" alt="Demo" />
+  <img src="" alt="Demo" />
 </p>
 
 ## ✨ Features
